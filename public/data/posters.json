@@ -1,0 +1,50 @@
+[
+  {
+    "id": "plant-peashooter",
+    "name": "Peashooter",
+    "role": "Basic ranged attacker",
+    "image": "./data/Plants/Peashooter.png"
+  },
+  {
+    "id": "plant-sunflower",
+    "name": "Sunflower",
+    "role": "Generates sun for your economy",
+    "image": "./data/Plants/Sunflower.png"
+  },
+  {
+    "id": "plant-wallnut",
+    "name": "Wall-nut",
+    "role": "High-HP defensive wall",
+    "image": "./data/Plants/Walnut.png"
+  },
+  {
+    "id": "plant-snowpea",
+    "name": "Snow Pea",
+    "role": "Ranged attacker that slows foes",
+    "image": "./data/Plants/Snowpea.png"
+  },
+  {
+    "id": "plant-chomper",
+    "name": "Chomper",
+    "role": "Melee unit with instant bites",
+    "image": "./data/Plants/Chomper.png"
+  },
+  {
+    "id": "plant-repeater",
+    "name": "Repeater",
+    "role": "Double pea firepower",
+    "image": "./data/Plants/Repeater.png"
+  },
+  {
+    "id": "plant-cherrybomb",
+    "name": "Cherry Bomb",
+    "role": "Area burst that clears lanes",
+    "image": "./data/Plants/Cherry%20Bomb.png"
+  },
+  {
+    "id": "plant-potatomine",
+    "name": "Potato Mine",
+    "role": "Burrowing explosive trap",
+    "image": "./data/Plants/Potato%20Mine.png"
+  }
+]
